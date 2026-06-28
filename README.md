@@ -1,4 +1,4 @@
-# 🔍 CrashLens — Road Accident Data Analysis
+#  CrashLens — Road Accident Data Analysis
 
 > **A real-world Data Science project that analyzes road accident patterns to uncover insights that could save lives.**
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **CrashLens** is a beginner-to-intermediate Data Science project that dives into real-world road accident data.  
 The goal is to identify **accident patterns**, **contributing factors**, and **actionable insights** that could help improve road safety.
@@ -23,7 +23,7 @@ This project is built **step-by-step** as part of a Data Science learning journe
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 CrashLens/
@@ -45,18 +45,18 @@ CrashLens/
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 - **Source:** [UK Road Safety — Road Accidents Dataset (Kaggle)](https://www.kaggle.com/datasets/silicon99/dft-accident-data)
 - **Size:** ~1.8 million accident records (2005–2017)
 - **Key Features:** Location, severity, weather, road conditions, vehicle types, casualties
 
-> ⚠️ Raw data files are excluded from version control (see `.gitignore`).  
+>  Raw data files are excluded from version control (see `.gitignore`).  
 > Download the dataset from Kaggle and place it in `data/raw/`.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -87,15 +87,15 @@ jupyter notebook
 
 | # | Milestone | Status |
 |---|-----------|--------|
-| 1 | Project setup & folder structure | ✅ Done |
-| 2 | Dataset loading & first look | 🔄 In Progress |
-| 3 | Data cleaning & handling missing values | ⏳ Upcoming |
-| 4 | Exploratory Data Analysis (EDA) | ⏳ Upcoming |
-| 5 | Visualizations & insights | ⏳ Upcoming |
+| 1 | Project setup & folder structure |  Done |
+| 2 | Dataset loading & first look | In Progress |
+| 3 | Data cleaning & handling missing values |  Upcoming |
+| 4 | Exploratory Data Analysis (EDA) |  Upcoming |
+| 5 | Visualizations & insights | Upcoming |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -108,14 +108,4 @@ jupyter notebook
 
 ---
 
-## 👩‍💻 Author
-
-**Harshitha**  
-📍 Aspiring Data Scientist | Learning by Building  
-🔗 [GitHub](https://github.com/u-harshitha007)
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
+ 
