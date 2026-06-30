@@ -1,4 +1,4 @@
-# 🔍 CrashLens — Road Accident Data Analysis
+#  CrashLens — Road Accident Data Analysis
 
 > **A real-world Data Science project that analyzes road accident patterns to uncover insights that could save lives.**
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 **CrashLens** is a beginner-to-intermediate Data Science project that dives into real-world road accident data.
 The goal is to identify **accident patterns**, **contributing factors**, and **actionable insights** that could help improve road safety.
@@ -23,7 +23,7 @@ This project is built **step-by-step** as part of a Data Science learning journe
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 By the end of this project, we aim to:
 
@@ -35,9 +35,9 @@ By the end of this project, we aim to:
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
-### 🗂️ Dataset Source
+###  Dataset Source
 
 | Field | Details |
 |-------|---------|
@@ -50,7 +50,7 @@ By the end of this project, we aim to:
 
 ---
 
-### 📊 Dataset Description
+###  Dataset Description
 
 The dataset contains **~104,000 real road accident records** from across the United Kingdom for the year **2023**, recorded by police forces under the STATS19 reporting system.
 
@@ -81,7 +81,7 @@ The dataset contains **~104,000 real road accident records** from across the Uni
 
 ---
 
-### ✅ Why This Dataset Was Chosen
+### Why This Dataset Was Chosen
 
 This dataset was selected over other popular options (e.g., Kaggle datasets requiring login) for the following reasons:
 
@@ -95,15 +95,15 @@ This dataset was selected over other popular options (e.g., Kaggle datasets requ
 
 ---
 
-### ⬇️ How to Download the Dataset
+### How to Download the Dataset
 
-> ⚠️ Raw data files are **not included** in this repository (excluded via `.gitignore`).
+>  Raw data files are **not included** in this repository (excluded via `.gitignore`).
 > You must download the dataset and place it in the correct folder before running any notebooks.
 
 **Step 1 — Download the file**
 
 **Option A:** Click the direct link to download in your browser:
-👉 [Download road_accidents_uk_2023.csv](https://data.dft.gov.uk/road-accidents-safety-data/dft-road-casualty-statistics-collision-2023.csv)
+ [Download road_accidents_uk_2023.csv](https://data.dft.gov.uk/road-accidents-safety-data/dft-road-casualty-statistics-collision-2023.csv)
 
 **Option B:** Use Python:
 ```python
@@ -128,7 +128,7 @@ CrashLens/
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 CrashLens/
@@ -154,7 +154,7 @@ CrashLens/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -184,25 +184,25 @@ jupyter notebook
 
 ---
 
-## 📈 Current Progress & Milestones
+##  Current Progress & Milestones
 
 | # | Milestone | Status |
 |---|-----------|--------|
-| 1 | Project setup & folder structure | ✅ Done |
-| 2 | Dataset research & documentation | ✅ Done |
-| 3 | Data loading & first look (`01_data_loading.ipynb`) | 🔄 In Progress |
-| 4 | Data cleaning & handling missing values | ⏳ Upcoming |
-| 5 | Exploratory Data Analysis (EDA) | ⏳ Upcoming |
-| 6 | Visualizations & insights | ⏳ Upcoming |
+| 1 | Project setup & folder structure |  Done |
+| 2 | Dataset research & documentation |  Done |
+| 3 | Data loading & first look (`01_data_loading.ipynb`) |  In Progress |
+| 4 | Data cleaning & handling missing values |  Upcoming |
+| 5 | Exploratory Data Analysis (EDA) |  Upcoming |
+| 6 | Visualizations & insights |  Upcoming |
 
-### 🔜 Next Steps
+###  Next Steps
 - Complete `notebooks/01_data_loading.ipynb` — load dataset, inspect shape, columns, and data types
 - Create `notebooks/02_data_cleaning.ipynb` — handle nulls, fix types, drop irrelevant columns
 - Create `notebooks/03_eda.ipynb` — explore patterns by time, weather, severity, and location
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -214,12 +214,7 @@ jupyter notebook
 | Jupyter Notebook | Interactive analysis environment |
 
 ---
-
-## 👩‍💻 Author
-
-**Harshitha**
-📍 Aspiring Data Scientist | Learning by Building
-🔗 [GitHub](https://github.com/u-harshitha007)
+ 
 
 ---
 
